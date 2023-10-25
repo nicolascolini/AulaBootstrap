@@ -1,0 +1,54 @@
+
+
+* {
+
+font-size: 18px;
+
+}
+
+header {
+
+height: 10vh;
+
+}
+
+
+.nav-link {
+
+color: red;
+
+}
+
+.carousel-inner {
+
+    height: 90vh;
+}
+
+.icon {
+
+    font-size: 2rem;
+    color: red;
+    
+}
+
+.icon:hover {
+
+    color: violet;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    header {
+
+        height: 100%;
+    }
+
+
+    .carousel-inner {
+
+        height: 100%;
+    }
+    
+}
+
